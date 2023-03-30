@@ -14,7 +14,7 @@
         argumentN     = "value-N"
      }
    ```
-  ## 6.2 Terraform Resource Block: Examples
+  ## 6.2 Terraform Resource Block: Example
   ```terraform   
      resource "aws_instance" "aws" {
         ami           = "ami-a1b2c3d4"
