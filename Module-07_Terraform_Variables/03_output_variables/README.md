@@ -1,5 +1,3 @@
-# Setup CosmosDB 
-
 # Sign in
 ```
 az login
